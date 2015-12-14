@@ -1,0 +1,7 @@
+Category Value
+PERSON Jason
+ANIMAL
+FOOD Pizza
+ANIMAL CAT
+PERSON
+OTHER London

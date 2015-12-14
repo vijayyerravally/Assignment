@@ -1,0 +1,6 @@
+CATEGORY VALUE
+HONDA    Accord
+TOYOTA   Camry
+
+BMW      X5
+AUDI     Q7
